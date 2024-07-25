@@ -1,0 +1,26 @@
+[
+  null,
+  {
+    "id": 1,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "シャノン",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "シャノン",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Shannon",
+    "nickname": "",
+    "note": "",
+    "profile": "An energetic AHAZON delivery person. As always, she's \ndashing around with her ponytail fluttering behind her."
+  }
+]
